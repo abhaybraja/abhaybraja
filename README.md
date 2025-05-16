@@ -29,3 +29,6 @@ https://abhaybraja.hashnode.dev/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaybraja) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/abhay_braja) 
 
 📫 How to reach me: https://linkedin.com/in/abhaybraja 
+
+
+Added at 16th May 2025, 17:19 IST ![Profile Visit Count](https://komarev.com/ghpvc/?username=abhaybraja) 
